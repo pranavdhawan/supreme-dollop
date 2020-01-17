@@ -1,5 +1,6 @@
 /* Construct a staircase of size n
 /*
+
 import java.io.*;
 import java.math.*;
 import java.security.*;
